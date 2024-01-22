@@ -1,1 +1,1 @@
-<h2>capacity-to-ship-packages-within-d-days Notes</h2><hr>To optimize the time complexity, write function instead way using for loop inside while loop.
+<h2>capacity-to-ship-packages-within-d-days Notes</h2><hr>To optimize the time complexity, write the function instead way using for loop inside while loop.
